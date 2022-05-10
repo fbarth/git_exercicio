@@ -1,3 +1,4 @@
+from gato import Gato
 from pessoa import Pessoa
 from gato import Gato
 
@@ -9,3 +10,6 @@ p2.fala_algo()
 
 g1 = Gato('Tiberio')
 g1.fala_algo()
+
+g2 = Gato("lksdfjlksd")
+g2.fala_algo()
