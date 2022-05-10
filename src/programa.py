@@ -2,7 +2,7 @@ from gato import Gato
 from pessoa import Pessoa
 from gato import Gato
 
-p1 = Pessoa('João', 30)
+p1 = Pessoa('JoãooOOOoo', 30)
 p1.fala_algo()
 
 p2 = Pessoa('Maria', 22)
